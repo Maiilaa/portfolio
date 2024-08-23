@@ -9,7 +9,10 @@
 <body>
    <?php include  '_header.php';?>
     <main>
-        <img  class=""src="Assets/images/degrade.jpg" alt="image degrade">
+        <section>
+            <h1>Maïla Zirari</h1>
+            <p class="soustitre">Développeuse Web et Web Mobile</p>
+       </section>
     </main>
     <footer>
 

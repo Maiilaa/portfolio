@@ -9,11 +9,12 @@
 <body>
     <header>
     <ul>
-            <li>Accueil</li>
-            <li>?</li>
-            <li>A</li>
-            <li>Contact</li>
-        </ul>
+        <li><a href="index.php">Accueil</a></li>
+        <li>A propos</li>
+        <li>CV</li>
+        <li>Portfolio</li>
+        <li>Contact</li>
+    </ul>
     </header>
 </body>
 </html>
