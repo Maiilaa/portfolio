@@ -11,7 +11,7 @@
     <ul>
         <li><a href="index.php">Accueil</a></li>
         <li>A propos</li>
-        <li>CV</li>
+        <li><a href="../CV/index.php" >CV</a></li>
         <li>Portfolio</li>
         <li>Contact</li>
     </ul>

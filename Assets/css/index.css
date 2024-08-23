@@ -34,11 +34,17 @@ li{
 a{
     text-decoration: none;
     color: white;}
-
 section{
-    justify-content: center;
-    align-items: center;
+    display: flex;
+    flex-direction: column;   
+    justify-content: center;  
+    align-items: center;      
+    height: 60vh;             
+    text-align: center;
+    color: white;
 }
 h1,.soustitre{
-    font-size: 150%;
+    font-size: 250%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
