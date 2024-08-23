@@ -1,0 +1,17 @@
+header{
+    background-color:black;
+}
+
+header ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around; 
+}
+
+header ul li {
+    margin: 0 15px; 
+    cursor: pointer;
+}
+
